@@ -1,3 +1,2 @@
 # Statistical Derivations  
-Currently working on NN derivation for batch image input using tensors with a similar architecture 
-
+Currently working on NN derivation with a similar architecture for batch image input using tensors 
